@@ -66,7 +66,7 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 4. Connect them using **‘w’** for wiring.
 5. Use `Check and Save`.
 
-
+---
 
  **STEP 4: Create a Symbol**
 
@@ -76,7 +76,7 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 4. Use drawing tools to customize symbol (triangle and circle bubble).
 5. Save the symbol (`Check and Save`).
 
-
+---
 
  **STEP 5: Create a Testbench**
 
@@ -93,7 +93,7 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 5. Wire all and label nets (`L` for labels).
 6. `Check and Save` the design.
 
-
+---
 
  **STEP 6: Simulation Setup (ADE L)**
 
@@ -136,7 +136,7 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 4. Compute: `tPD = (tpLH + tpHL) / 2`
 5. Repeat for all 3 geometries.
 
-
+---
 
 **Simulation Settings**
 
