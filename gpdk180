@@ -1,0 +1,15 @@
+*Objective*:
+
+Capture the schematic of a CMOS inverter with 0.1 pF load capacitance.
+Simulate three different transistor width configurations:
+WN = WP
+WN = 2 × WP
+WN = WP / 2
+
+Perform Transient and DC Analysis.
+Calculate:
+High-to-Low Propagation Delay (tpHL)
+Low-to-High Propagation Delay (tpLH)
+Average Propagation Delay (tPD)
+
+Design Layout and run DRC, LVS, and post-layout simulations.
