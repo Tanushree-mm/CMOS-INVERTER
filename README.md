@@ -42,11 +42,17 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 **TEST CIRCUIT FOR SIMULATION**
 
 
+<img width="1135" height="448" alt="Image" src="https://github.com/user-attachments/assets/fbcb6553-fefe-4281-b5aa-9451a6a12f35" />
+
 
 **TRANSIENT AND DC RESPONSE**
 
 
 <img width="1694" height="1129" alt="Image" src="https://github.com/user-attachments/assets/f3dda9ab-631c-4ae0-8183-92050866a6ac" />
+
+
+**LAYOUT**
+
 
 
 **Key Learnings**
