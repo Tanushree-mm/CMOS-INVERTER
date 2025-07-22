@@ -33,7 +33,17 @@ Tech Library: gpdk180
 
 Schematic & Layout: CMOS Inverter (VLSI Design)
 
-**TRANSIENT AND DC RESPONSE **
+
+**SCHEMATIC OF CMOS INVERTER**
+
+
+<img width="694" height="788" alt="Image" src="https://github.com/user-attachments/assets/69306ed4-7657-4d2b-94ab-7166e658a83b" />
+
+**TEST CIRCUIT FOR SIMULATION**
+
+
+
+**TRANSIENT AND DC RESPONSE**
 
 
 <img width="1694" height="1129" alt="Image" src="https://github.com/user-attachments/assets/f3dda9ab-631c-4ae0-8183-92050866a6ac" />
