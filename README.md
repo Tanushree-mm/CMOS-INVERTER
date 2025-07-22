@@ -54,6 +54,9 @@ Schematic & Layout: CMOS Inverter (VLSI Design)
 **LAYOUT**
 
 
+<img width="464" height="278" alt="Image" src="https://github.com/user-attachments/assets/10b57c3c-4064-441d-9352-769e362cbdc0" />
+
+
 
 **Key Learnings**
 
