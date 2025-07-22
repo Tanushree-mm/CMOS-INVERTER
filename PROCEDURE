@@ -57,7 +57,7 @@
 4. **cap value** = 0.1 pF
 5. Wire all and label nets (`L` for labels).
 6. `Check and Save` the design.
-
+<img width="1135" height="448" alt="Image" src="https://github.com/user-attachments/assets/fbcb6553-fefe-4281-b5aa-9451a6a12f35" />
 ---
 
  **STEP 6: Simulation Setup (ADE L)**
